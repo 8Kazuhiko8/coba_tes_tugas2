@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721510779908",
+    "project_id": "stopwatch-e1c8f",
+    "storage_bucket": "stopwatch-e1c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721510779908:android:75dd69884e3f6cf3cb7951",
+        "android_client_info": {
+          "package_name": "com.example.tes_tugas2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedY7raT6X7W8_QSopK4wHx03cX2rQWHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
